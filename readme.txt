@@ -14,3 +14,7 @@
     - --hard 版本号 跳转到某个版本
 
 ## git reflog  显示所有版本
+
+! 对文件做修改必须add commit
+
+## git checkout -- <file> 丢弃工作区的修改（未提交到暂存区的）
