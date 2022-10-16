@@ -8,3 +8,9 @@
 
 ## git log 查看修改历史
     - git log -pretty=oneline 简化显示信息
+## git reset
+    - --hard HEAD^ 回退到上一版本
+    - --hard HEAD^^ 回退到上上一版本
+    - --hard 版本号 跳转到某个版本
+
+## git reflog  显示所有版本
