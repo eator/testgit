@@ -20,3 +20,4 @@
 ## git checkout -- <file> 丢弃工作区的修改（未提交到暂存区的）
     - 等同于 git restore <file>
 
+## 删除文件后，记得 commit
