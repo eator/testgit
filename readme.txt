@@ -6,3 +6,4 @@
     - -m + <string> 添加提交注释
 ## git diff <file> 查看文件 file 的未提交修改的差异
 
+## git log 查看修改历史
