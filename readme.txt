@@ -15,6 +15,8 @@
 
 ## git reflog  显示所有版本
 
-! 对文件做修改必须add commit
+!! 对文件做修改必须add commit
 
 ## git checkout -- <file> 丢弃工作区的修改（未提交到暂存区的）
+    - 等同于 git restore <file>
+
