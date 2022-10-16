@@ -7,3 +7,4 @@
 ## git diff <file> 查看文件 file 的未提交修改的差异
 
 ## git log 查看修改历史
+    - git log -pretty=oneline 简化显示信息
